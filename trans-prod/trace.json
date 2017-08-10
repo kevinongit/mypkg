@@ -1,0 +1,20 @@
+[
+    {
+        "action": "put on dress", "amount": "30", "todo":"go to wash", "string": "A rose by any other name would smell as sweet."
+    },
+    {
+        "action": "brush teeth", "amount": "30", "todo":"go to bed", "string": "All that glitters is not gold."
+    },
+    {
+        "action": "bend the knee", "amount": "30", "todo":"stand up", "string": "All the world’s a stage, and all the men and women merely players."
+    },
+    {
+        "action": "ride a dragon", "amount": "30", "todo":"dismount the dragon", "string": "Ask not what your country can do for you; ask what you can do for your country."
+    },
+    {
+        "action": "swing a sword", "amount": "30", "todo":"and put it back", "string": "Eighty percent of success is showing up."
+    },
+    {
+        "action": "ask for help", "amount": "30", "todo":"say thanks", "string": "Elementary, my dear Watson."
+    }
+]

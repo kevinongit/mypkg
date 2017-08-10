@@ -1,0 +1,17 @@
+[
+    {
+        "msisdn": "01012345678", "name": "Aria", "age": 35
+    },
+    {
+        "msisdn": "01011112222", "name": "John", "age": 12
+    },
+    {
+        "msisdn": "01022224444", "name": "Cercei", "age": 14
+    },
+    {
+        "msisdn": "010111116666", "name": "Danerys", "age": 22
+    },
+    {
+        "msisdn": "01099998888", "name": "Bran", "age": 23 
+    }
+]
