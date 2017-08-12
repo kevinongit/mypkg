@@ -1,0 +1,17 @@
+[
+    {
+        "major": "Physics", "weapon" : "stick", "velocity": "20", "grade": "2"
+    },
+    {
+        "major": "Chemistry", "weapon" : "vow", "velocity": "10", "grade": "1"
+    },
+    {
+        "major": "Geometry", "weapon" : "sword", "velocity": "25", "grade": "4"
+    },
+    {
+        "major": "Math", "weapon" : "pencil", "velocity": "5", "grade": "6"
+    },
+    {
+        "major": "History", "weapon" : "shield", "velocity": "10", "grade": "7"
+    }
+]

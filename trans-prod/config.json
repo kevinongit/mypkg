@@ -1,0 +1,6 @@
+{
+    "jsonDir": "./jsondir/",
+    "jsonFiles": ["caller.json", "trace.json", "history.json"],
+    "genCount": "10",
+    "outFile": "result"
+}
