@@ -1,0 +1,7 @@
+{
+    "jsonDir": "./inbox/",
+    "jsonFiles": ["title.json", "status.json"],
+    "genCount": "50",
+    "outFile": "inbox-result",
+    "columns": ["ID", "title", "ReceiverGroup", "PostedTime", "ReservedTime", "Status"]
+}
